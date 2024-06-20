@@ -9,3 +9,5 @@ dependencies:
   - langgraph
   - langsmith
   - langchain-google-genai
+  - langchain-community
+  - tavily-python
