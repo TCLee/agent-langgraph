@@ -12,4 +12,4 @@ dependencies:
   - langgraph=0.1.*
   - pip
   - pip:
-    - tavily-python=0.3.*
+    - tavily-python==0.3.*
